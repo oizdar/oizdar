@@ -2,7 +2,7 @@
 
 Nice to see you here 😉
 
-- 🧑‍🦲I'm backend developer. I had short adventures with Python or node.js.
+- 🧑‍🦲I'm backend developer mostly working with symfony. I had short adventures with Python or node.js.
 
 - 🌱 I’m currently learning javascript 😵
 
