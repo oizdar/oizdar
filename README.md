@@ -2,9 +2,7 @@
 
 Nice to see you here 😉
 
-- 🧑‍🦲I'm backend developer mostly working with symfony. I had short adventures with Python or node.js.
-
-- 🌱 I’m currently learning javascript 😵
+- 🧑‍🦲I'm backend developer mostly working with laravel & symfony. I had short adventures with Python or javascript
 
 - 📫 You reach me at: malinowski.rad@gmail.com
 
