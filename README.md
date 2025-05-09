@@ -3,7 +3,7 @@
 Nice to see you here 😉
 
 - 🧑‍🦲I'm backend developer mostly working with Laravel & Symfony.
-- 
+
 - 👯 I'm looking for a position as a PHP Developer. I'm particularly interested in a positive work environment and strong opportunities for growth. My key strengths include broad knowledge of various frameworks, the ability to work independently, and a willingness to take on new challenges.
 
 - 📫 You reach me at: malinowski.rad@gmail.com
